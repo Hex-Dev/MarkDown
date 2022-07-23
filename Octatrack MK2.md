@@ -26,7 +26,7 @@
     1. FIN  : 0'63
     2. FOUT : 0,63
 
-### Préparer Enregistrement
+### Préparer Enregistrement.
 
 #### TRIG [ One Shot ]
 
