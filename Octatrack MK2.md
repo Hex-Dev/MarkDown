@@ -4,9 +4,9 @@
 
 ### Paramétrages Track 8
 
-  	1. Track 8
-  	2. Flexmachine
-  	3. R8
+    1. Track 8
+    2. Flexmachine
+    3. R8
 
 ### Réglages REC1
 
