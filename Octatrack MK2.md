@@ -1,4 +1,4 @@
-# <center> Octatrack MK2 </center>
+# Octatrack MK2
 
 ## 1. Enregistrement du Master
 
